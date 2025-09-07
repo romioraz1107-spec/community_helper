@@ -1,5 +1,5 @@
 
-# Community Helper (MAMP-ready)
+# Community Helper
 
 A simple community help portal with:
 - Register, Login, Logout
